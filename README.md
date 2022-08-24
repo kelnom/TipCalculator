@@ -34,11 +34,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+i havent had to build any ios app before.. trying to call some sunctions and not working out
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [kelechi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
