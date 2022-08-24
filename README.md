@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-i havent had to build any ios app before.. trying to call some sunctions and not working out
+i havent had to build any ios app before.. trying to call some functions and not working out
 
 ## License
 
